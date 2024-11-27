@@ -17,12 +17,6 @@ Dagen fokuserade på **tillgänglighet**, med en genomgång av viktiga begrepp, 
     - ARIA-roller och HTML-struktur
     - Webbplatsens navigeringsbarhet med tangentbord.
 
-- **Länkar till verktyg som visades:**
-  - [Colour Contrast Checker](https://colourcontrast.cc/?background=ffffff&foreground=343434)  
-    *(Verktyg för att kontrollera kontrastförhållanden mellan text och bakgrund.)*
-  - [Deque (Axe Chrome Extension)](https://www.deque.com/company/?utm_source=chrome_browser_extension&utm_medium=referral&utm_campaign=pin_about_deque)  
-    *(Webbläsartillägg som analyserar tillgängligheten på din webbplats och ger förslag på förbättringar.)*
-
 ---
 
 ### **12:00 - 13:00**
