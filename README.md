@@ -1,5 +1,3 @@
-# lecture-27-nov
-```markdown
 # **Onsdag 27 november 2024**
 
 ## **Dagens upplägg**
@@ -51,9 +49,3 @@ Dagen fokuserade på **tillgänglighet**, med en genomgång av viktiga begrepp, 
   - [Colour Contrast Checker](https://colourcontrast.cc/?background=ffffff&foreground=343434)  
     *(Kontrollerar kontrastförhållanden mellan text och bakgrund, vilket är avgörande för läsbarhet.)*
   - [Deque (Axe Chrome Extension)](https://www.deque.com/company/?utm_source=chrome_browser_extension&utm_medium=referral&utm_campaign=pin_about_deque)  
-    *(Analyserar webbplatsens tillgänglighet och identifierar problem i koden.)*
-
----
-
-Vi ser fram emot att se era analyser och lösningar på övningen! 😊
-```
